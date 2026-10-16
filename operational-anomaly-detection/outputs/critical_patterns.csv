@@ -1,0 +1,13 @@
+account_id,high_risk_txns,total_amount,first_seen,last_seen,rules_seen
+ACC-012,4,77234.96,2026-03-13 02:24:00,2026-03-16 02:27:00,"amount_outlier, foreign, off_hours"
+ACC-003,3,49527.19,2026-03-09 17:15:00,2026-03-09 17:31:00,"amount_outlier, new_device, velocity"
+ACC-006,3,41685.89,2026-03-08 15:29:00,2026-03-10 15:20:00,"amount_outlier, foreign"
+ACC-009,3,33918.18,2026-02-12 03:27:00,2026-02-14 03:26:00,"amount_outlier, new_device, off_hours"
+ACC-004,3,33000.0,2026-03-03 03:12:00,2026-03-05 03:17:00,"amount_outlier, off_hours, round_amount"
+ACC-010,3,18000.0,2026-03-21 10:47:00,2026-03-23 10:21:00,"amount_outlier, foreign, round_amount"
+ACC-007,3,15000.0,2026-02-16 18:12:00,2026-02-18 18:25:00,"foreign, new_device, round_amount"
+ACC-002,3,13512.38,2026-03-10 09:32:00,2026-03-12 09:41:00,"amount_outlier, foreign, new_device"
+ACC-001,3,13462.41,2026-02-24 01:20:00,2026-02-26 01:30:00,"amount_outlier, new_device, off_hours"
+ACC-008,3,9310.6,2026-03-01 02:16:00,2026-03-01 02:32:00,"amount_outlier, off_hours, velocity"
+ACC-005,3,6726.42,2026-03-07 01:09:00,2026-03-07 01:25:00,"foreign, off_hours, velocity"
+ACC-011,3,5059.78,2026-03-02 13:16:00,2026-03-02 13:32:00,"foreign, new_device, velocity"
